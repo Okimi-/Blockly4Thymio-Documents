@@ -5,3 +5,5 @@ Ces documents ont été réalisés à l'aide du ligiciel de mise en page libre S
 Document expliquant la procédure à suivre pour calibrer les moteurs du Thymio.
 ### calibration-des-distances.pdf
 Document expliquant la procédure à suivre pour calibrer la vitesse des moteurs pour que les distances programmées dans l'interface blockly4thymio correspondent avec la distance parcourue par le robot.
+### creation-de-sons-personnalises.pdf
+Document expliquant la procédure pour créer des sons personnalisés, à partir d'Audacity pour la carte SD de Thymio.
