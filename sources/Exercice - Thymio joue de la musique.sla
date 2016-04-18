@@ -35,7 +35,6 @@
         </Printer>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Poiret One Regular"/>
-            <Fonts Name="Raleway Bold"/>
             <Subset Name="Arial Regular"/>
             <Subset Name="Raleway ExtraBold"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -84,7 +83,7 @@
             <trail ALIGN="0" LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="43.5927558944876" YPOS="165.395669291339" WIDTH="72" HEIGHT="72" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5625" LOCALSCY="0.5625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercice - Thymio s'illumine/thymio-s-illumine.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 72 0 72 0 72 0 72 0 72 72 72 72 72 72 72 72 0 72 0 72 0 72 0 72 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 72 0 72 0 72 0 72 0 72 72 72 72 72 72 72 72 0 72 0 72 0 72 0 72 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.07590550078676" gYpos="0" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="43.5927558944876" YPOS="165.395669291339" WIDTH="72" HEIGHT="72" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5625" LOCALSCY="0.5625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercice - Thymio musicien/illustration-exercie-thymio-musicien.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 72 0 72 0 72 0 72 0 72 72 72 72 72 72 72 72 0 72 0 72 0 72 0 72 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 72 0 72 0 72 0 72 0 72 72 72 72 72 72 72 72 0 72 0 72 0 72 0 72 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.07590550078676" gYpos="0" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -93,25 +92,23 @@
             <ITEXT CPARENT="Default Character Style" FEATURES="inherit underline" TXTULP="-0.1" TXTULW="8.9" CH="NOTIONS ABORDÉES"/>
             <para/>
             <para/>
-            <ITEXT CH="Programmation séquencielle."/>
+            <ITEXT CH="Découverte de l'interface Blockly4Thymio / Programmation séquentielle."/>
             <para/>
             <para/>
             <para/>
             <ITEXT CPARENT="Default Character Style" FEATURES="inherit underline" TXTULP="-0.1" TXTULW="8.9" CH="SUJET"/>
             <para/>
             <para/>
-            <ITEXT FONT="Poiret One Regular" CH="Thymio est recouvert de lumières colorées."/>
-            <ITEXT CH=" "/>
-            <ITEXT FONT="Poiret One Regular" CH="Amuse-toi à le faire changer de couleur ou à le faire clignoter."/>
+            <ITEXT FONT="Poiret One Regular" CH="Thymio est aussi doué pour faire de la musique. Apprends lui les notes et il jouera la musique que tu lui demande.."/>
             <ITEXT CH=" Des exemples que tu peux faire :"/>
             <para/>
-            <ITEXT CH="- jouer au clair de la lune (),"/>
+            <ITEXT CH="- jouer Joyeux anniversaire (DO, DO, RE, DO, FA, MI)."/>
             <para/>
-            <ITEXT CH="- jouer Frère Jacques (),"/>
+            <ITEXT CH="- jouer au clair de la lune (SOL, SOL, SOL, LA, SI, attends 1 seconde, LA, SOL, SI, LA, LA, SOL),"/>
             <para/>
-            <ITEXT CH="- jouer Joyeux anniversaire ()."/>
+            <ITEXT CH="- jouer Frère Jacques (DO, RE, MI, DO, DO, RE, MI, DO, MI, FA, SOL, attends 1 seconde, MI, FA, SOL)"/>
             <para/>
-            <ITEXT CH="- jouer plusieurs fois les notes RE / DO pour imiter la sireèn des pompiers."/>
+            <ITEXT CH="- jouer plusieurs fois les notes DO et SOL pour imiter la sirène des pompiers."/>
             <para/>
             <para/>
             <para/>
@@ -124,27 +121,11 @@
             <ITEXT CH="On peut ensuite assembler plusieurs instructions, les unes à la suite des autres pour que Thymio les exécute dans l'ordre qui est défini."/>
             <para/>
             <para/>
-            <ITEXT CH="Par exemple, faire des feux tricolores"/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <ITEXT CH="Clignoter trois fois en rouge"/>
+            <ITEXT CH="Par exemple, jouer la gamme des notes :"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="421.026929122834" YPOS="489.977244094487" WIDTH="149.338582677165" HEIGHT="28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.525" LOCALSCY="0.525" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/instruction-quand-le-programme-commence.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 149.339 0 149.339 0 149.339 0 149.339 0 149.339 28 149.339 28 149.339 28 149.339 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 149.339 0 149.339 0 149.339 0 149.339 0 149.339 28 149.339 28 149.339 28 149.339 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="378.510078729133" gYpos="279.227244094487" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="42.5168503937008" YPOS="584.372913385828" WIDTH="212.5" HEIGHT="61" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.495" LOCALSCY="0.495" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercice - Thymio s'illumine/exercice-thymio-s-illumine-programme-01.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 212.5 0 212.5 0 212.5 0 212.5 0 212.5 61 212.5 61 212.5 61 212.5 61 0 61 0 61 0 61 0 61 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 212.5 0 212.5 0 212.5 0 212.5 0 212.5 61 212.5 61 212.5 61 212.5 61 0 61 0 61 0 61 0 61 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="376.457559055119" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="43.6014960629922" YPOS="689.90661417323" WIDTH="208.584645669291" HEIGHT="101" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.495" LOCALSCY="0.495" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercice - Thymio s'illumine/exercice-thymio-s-illumine-programme-02.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 208.585 0 208.585 0 208.585 0 208.585 0 208.585 101 208.585 101 208.585 101 208.585 101 0 101 0 101 0 101 0 101 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 208.585 0 208.585 0 208.585 0 208.585 0 208.585 101 208.585 101 208.585 101 208.585 101 0 101 0 101 0 101 0 101 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.0846456692914" gYpos="481.99125984252" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="421.026929122834" YPOS="504.150472440944" WIDTH="149.338582677165" HEIGHT="28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.525" LOCALSCY="0.525" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/instruction-quand-le-programme-commence.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 149.339 0 149.339 0 149.339 0 149.339 0 149.339 28 149.339 28 149.339 28 149.339 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 149.339 0 149.339 0 149.339 0 149.339 0 149.339 28 149.339 28 149.339 28 149.339 28 0 28 0 28 0 28 0 28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="378.510078729133" gYpos="279.227244094487" gWidth="527.848661406298" gHeight="594.286535433071" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -158,6 +139,10 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="28.3436220472441" YPOS="28.3436220472441" WIDTH="566.88" HEIGHT="74.88" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercices - Haut de page.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 566.88 0 566.88 0 566.88 0 566.88 0 566.88 74.88 566.88 74.88 566.88 74.88 566.88 74.88 0 74.88 0 74.88 0 74.88 0 74.88 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 566.88 0 566.88 0 566.88 0 566.88 0 566.88 74.88 566.88 74.88 566.88 74.88 566.88 74.88 0 74.88 0 74.88 0 74.88 0 74.88 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="43.1653543307087" YPOS="606.5" WIDTH="156.375" HEIGHT="127.6875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5625" LOCALSCY="0.5625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="images/Exercice - Thymio musicien/exercice-thymio-musicien-programme-01.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 156.375 0 156.375 0 156.375 0 156.375 0 156.375 127.688 156.375 127.688 156.375 127.688 156.375 127.688 0 127.688 0 127.688 0 127.688 0 127.688 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 156.375 0 156.375 0 156.375 0 156.375 0 156.375 127.688 156.375 127.688 156.375 127.688 156.375 127.688 0 127.688 0 127.688 0 127.688 0 127.688 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
