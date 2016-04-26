@@ -13,9 +13,9 @@
    height="850.39368"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Circuit - Droite.svg"
-   inkscape:export-filename="C:\Users\fort\Downloads\Blockly4Thymio-Documents\sources\images\Circuit - Droite.png"
+   inkscape:export-filename="C:\Users\Okimi\Mes projets\2016\Blockly4Thymio-Documents\sources\images\Circuit\Circuit - Droite.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <defs
@@ -28,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="469.27332"
-     inkscape:cy="216.97"
+     inkscape:cx="312.69968"
+     inkscape:cy="782.65543"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,5 +96,14 @@
        id="path2985-1-7-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#797979;stroke-width:0.77730834;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.77730835, 4.66385011;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3381"
+       width="282.68729"
+       height="849.61639"
+       x="0.38865417"
+       y="202.35713"
+       rx="1.9287416"
+       ry="3.7313719" />
   </g>
 </svg>
